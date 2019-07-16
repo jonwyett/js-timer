@@ -1,0 +1,25 @@
+{
+  "name": "jw-timer",
+  "version": "1.0.0",
+  "description": "A Simple timer class",
+  "main": "timer.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonwyett/jw-timer.git"
+  },
+  "keywords": [
+    "timer",
+    "stopwatch"
+  ],
+  "author": "Jonathan Wyett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonwyett/jw-timer/issues"
+  },
+  "homepage": "https://github.com/jonwyett/jw-timer#readme"
+}
